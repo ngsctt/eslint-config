@@ -1,0 +1,26 @@
+{
+  "name": "@ngsctt/eslint-config",
+  "version": "1.0.0",
+  "description": "Basic ESLint configuration",
+  "main": "eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngsctt/eslint-config.git"
+  },
+  "author": "Nathan Scott <dev@ngscott.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngsctt/eslint-config/issues"
+  },
+  "homepage": "https://github.com/ngsctt/eslint-config#readme",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "eslint": ">=6.8.0"
+  }
+}
