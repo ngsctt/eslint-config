@@ -1,6 +1,6 @@
 {
   "name": "@ngsctt/eslint-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Basic ESLint configuration",
   "main": "eslintrc.js",
   "scripts": {
