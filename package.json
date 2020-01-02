@@ -22,5 +22,9 @@
   ],
   "peerDependencies": {
     "eslint": ">=6.8.0"
-  }
+  },
+  "devDependencies": {
+    "@ngsctt/prettier-config": "^0.1.0"
+  },
+  "prettier": "@ngsctt/prettier-config"
 }
